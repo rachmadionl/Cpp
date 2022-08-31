@@ -35,6 +35,5 @@
 .vscode/*
 
 #other things idk
-*.dSYM
+*.dSYM/*
 *.plist
-*Resources
